@@ -1,0 +1,11 @@
+.Main {
+    border: 2px solid green;
+    height: 600px;
+    width: 90%;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: green;
+    display: flex;
+    flex-direction: row;
+}
